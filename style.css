@@ -1,0 +1,21 @@
+.travel_section{
+    border:3px  solid  red;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.menu_bar{
+    position:sticky;
+    top: 0;
+    z-index: 999;
+}
+.movie_head{
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.movie_head i{
+    float: right;
+}
+#Frozen_2 span{
+  color: orange;
+}
